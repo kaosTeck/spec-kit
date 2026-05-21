@@ -1,0 +1,16 @@
+name: spec-kit
+id: ari:cloud:compass:318fb258-d535-4451-b665-f7414a07a07c:component/3e151830-cbd0-4726-a177-6bf7cf4cb805/953cd784-0568-4fc1-876d-4a600f5bedaf
+description: 💫 Toolkit to help you get started with Spec-Driven Development
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/kaosTeck/spec-kit
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
